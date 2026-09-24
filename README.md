@@ -1,36 +1,355 @@
-<h1 align="center">Hi 👋, I'm Vijay Bhadade</h1>
-<h3 align="center">A passionate full stack  developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybhadade&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybhadade" /> </p>
+# 👋 Hi, I'm Vijay Bhadade
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaybhadade" alt="vijaybhadade" /></a> </p>
+### 💻 Full-Stack Web Developer | MERN Stack | Backend Development
 
-- 🔭 I’m currently working on [Job-Portal Platform](https://github.com/vijaybhadade/JOB_PORTAL_PROJECT)
+I build **full-stack web applications and REST APIs** with a focus on clean backend architecture, authentication, databases, and practical problem solving.
 
-- 🌱 I’m currently learning **Linux and Devop**
+🌱 Currently learning **DevOps, Linux, Cloud & Software Testing**
+🚀 Currently building **Job Portal Platform**
+🎯 Interested in **Backend & Full-Stack Development**
 
-- 👯 I’m looking to collaborate on [Job-Portal Platform](https://github.com/vijaybhadade/JOB_PORTAL_PROJECT)
-
-- 🤝 I’m looking for help with [Job-Portal Platform](https://github.com/vijaybhadade/JOB_PORTAL_PROJECT)
-
-- 💬 Ask me about **MERN Stack Developer**
-
-- 📫 How to reach me **vijaybhadade7499@gmail.com**
-
-- ⚡ Fun fact **I am a Coder**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vijay bhadade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay bhadade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vijaycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijaycoder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vijaycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaycoder" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/vijaybhadade">
+    <img src="https://komarev.com/ghpvc/?username=vijaybhadade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaybhadade&show_icons=true&locale=en&layout=compact" alt="vijaybhadade" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaybhadade&show_icons=true&locale=en" alt="vijaybhadade" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaybhadade&" alt="vijaybhadade" /></p>
+* 🎓 Computer Science graduate
+* 💻 Focused on **MERN Stack & Backend Development**
+* 🔨 Building REST APIs using **Node.js & Express.js**
+* 🗄️ Working with **MongoDB, PostgreSQL & SQL**
+* ⚛️ Building frontend applications with **React**
+* 🔐 Learning secure authentication and authorization using **JWT, bcrypt, roles & permissions**
+* 🧩 Practicing **Java & DSA** to strengthen problem-solving skills
+* 🐧 Currently exploring **Linux & DevOps**
+* ☁️ Exploring **Cloud technologies**
+* 🧪 Learning **software testing and API testing**
+* 🤝 Open to learning, collaboration and interesting development projects
+
+---
+
+## 🚀 Current Project
+
+### 💼 Job Portal Platform
+
+A full-stack job portal project focused on building a practical production-style backend.
+
+**Current backend work includes:**
+
+* Node.js
+* Express.js
+* MongoDB / Mongoose
+* JWT Authentication
+* Refresh Token handling
+* Role-based authorization
+* Permission-based authorization
+* Password hashing with bcrypt
+* Input validation
+* CORS
+* Helmet
+* Rate limiting
+* Morgan logging
+* Environment configuration
+* RESTful APIs
+
+🔗 **Repository:**
+[JOB_PORTAL_PROJECT](https://github.com/vijaybhadade/JOB_PORTAL_PROJECT)
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Job Portal Platform
+
+Full-stack job portal with a structured Node.js/Express backend, authentication, authorization, users, roles and permissions.
+
+**Tech:**
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `React`
+
+[🔗 View Repository](https://github.com/vijaybhadade/JOB_PORTAL_PROJECT)
+
+</td>
+
+<td width="50%">
+
+### 📝 React Todo App
+
+A React-based Todo application focused on component-based development, state management and browser persistence.
+
+**Tech:**
+`React` `JavaScript` `Tailwind CSS` `localStorage`
+
+[🔗 View Repository](https://github.com/vijaybhadade)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌍 Wonderlust
+
+A full-stack travel/listing application built while practicing Express, EJS, MongoDB and REST-style backend development.
+
+**Tech:**
+`Node.js` `Express.js` `MongoDB` `EJS`
+
+[🔗 View Repository](https://github.com/vijaybhadade)
+
+</td>
+
+<td width="50%">
+
+### 🔧 REST API Projects
+
+Backend practice projects covering authentication, CRUD operations, middleware, routing, databases and API security.
+
+**Tech:**
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `JWT`
+
+[🔗 Explore My Repositories](https://github.com/vijaybhadade?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,java,c,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### 🖥️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,figma" />
+</p>
+
+### ☁️ Cloud & DevOps — Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux" />
+</p>
+
+---
+
+## 🧠 Core Knowledge
+
+```text
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+├── React
+├── React Router
+├── State Management
+└── Tailwind CSS
+
+Backend
+├── Node.js
+├── Express.js
+├── REST APIs
+├── Middleware
+├── Authentication
+├── Authorization
+├── JWT
+└── API Security
+
+Databases
+├── MongoDB
+├── Mongoose
+├── PostgreSQL
+├── SQL
+└── SQLite
+
+Programming & CS
+├── Java
+├── Data Structures & Algorithms
+├── OOP
+└── Problem Solving
+
+Tools & Practices
+├── Git & GitHub
+├── Postman
+├── Docker
+├── Linux
+├── Testing
+└── API Development
+```
+
+---
+
+## 🔐 Backend & Security
+
+Currently strengthening my backend development skills through practical projects.
+
+* 🔑 JWT authentication
+* 🔄 Access & refresh tokens
+* 👤 Role-based authorization
+* 🛡️ Permission-based authorization
+* 🔒 Password hashing with bcrypt
+* ✅ Request validation
+* 🌐 CORS configuration
+* 🪖 Helmet security middleware
+* 🚦 Rate limiting
+* 📝 HTTP request logging
+* ⚙️ Environment variables
+* 🗃️ Database relationships & queries
+* 🧪 API testing
+
+---
+
+## 📚 Currently Learning
+
+```text
+🚀 DevOps
+🐧 Linux
+☁️ Cloud Technologies
+🧪 Software Testing
+🐳 Docker
+🗄️ SQL & SQLite
+🔐 Backend Security
+📦 Production Backend Architecture
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vijaybhadade&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaybhadade&layout=compact&langs_count=8&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=vijaybhadade&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaybhadade&hide_border=true" alt="Vijay Bhadade GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vijaybhadade&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/vijaybhadade">
+  <img src="https://img.shields.io/github/followers/vijaybhadade?label=Followers&style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/vijaybhadade?tab=repositories">
+  <img src="https://img.shields.io/github/stars/vijaybhadade?affiliations=OWNER&style=for-the-badge&logo=github&label=Repository%20Stars" />
+</a>
+
+<a href="https://github.com/vijaybhadade?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:vijaybhadade7499@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/vijaybhadade">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vijay-bhadade">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/vijaycoder">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/vijaycoder">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+## 💡 My Development Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to learn development is by building real projects, solving problems, understanding why things work, and continuously improving.
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep improving. 💻**
+
+</div>
